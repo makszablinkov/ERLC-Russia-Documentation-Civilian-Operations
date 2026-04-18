@@ -4,6 +4,6 @@
 
 ## Основное
 
-* [Правила бизнесов](osnovnoe/pravila-biznesov.md)
-* [Правила официальных ОПГ](osnovnoe/editor.md)
-* [Правила ЧОП](osnovnoe/pravila-chop.md)
+* [Правила бизнесов](osnovnoe/biz.md)
+* [Правила официальных ОПГ](osnovnoe/opg.md)
+* [Правила ЧОП](osnovnoe/chop.md)
